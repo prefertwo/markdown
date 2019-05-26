@@ -28,3 +28,28 @@
 >这里使用了一个引用符号
 >>这里使用了两个引用符号
 >>>>>>>>>>>>>这里使用了好多个引用符号
+
+4、分割线
+
+三个 或者 四个以上的 — 或者 * 都可以。例如：  
+三个 - 效果  
+------
+三个 * 效果  
+******
+
+5、图片
+
+格式：！【图片alt】(图片地址 ‘图片title’) 所有字符都是英文的。
+网络图片：  
+![网络图片](http://s1.sinaimg.cn/large/002i1XHNzy7hvsPvF0wbc '无问西东')
+本地图片：  
+![本地图片](/images/wuwen.jpg '无问西东')
+
+6、超链接
+
+格式：【超链接名】（超链接地址 "超链接title"）title可加可不加。
+[Github](https://www.jianshu.com/)  
+[百度](https://www.baidu.com/)  
+还可以用HTML的 a 标签代替: <a href="https://www.baidu.com" target="_blank">百度一下</a>
+
+7、
